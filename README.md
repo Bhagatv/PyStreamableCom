@@ -8,6 +8,7 @@ with Python 3.0+ (not tested on any lower).
 This API is available via PyPi at https://pypi.python.org/pypi/PyStreamableCom.
 So, it supports pip installation.
 
-'''
+
+```
 pip install pystreamablecom
-'''
+```
